@@ -32,6 +32,7 @@ images were rectified and cropped to focus on pertinent regions. Post-rectificat
   <img src="samples/gui.png" alt="Image 1" width="800" />
 </p>
 
+## Calibration setup
 Images for camera calibration were collected in a controlled lab environment using checkerboard patterns. The calibration process was performed offline with tools developed in MATLAB. The figure provides a sample image from the calibration process.
 <p align="center">
   <img src="samples/img0.jpg" alt="Image 1" width="600" />
