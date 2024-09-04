@@ -4,6 +4,8 @@ The stereo camera setup featured three monochrome global shutter cameras (Camera
 
 The camera system was securely mounted on a vehicle using a robust metal square bar, further reinforced with a thick carbon fiber tube to maintain stability during movement. The metal bar was affixed to the vehicle's roof rails to ensure a rigid structure.
 
+## Camera and IMU+GPS setup
+
 <p align="center">
   <img src="samples/carsetup.png" alt="Image 1" width="300" />
   <img src="samples/esetup.jpg" alt="Image 2" width="300" />
