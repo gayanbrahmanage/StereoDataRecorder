@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bgs/CSI3DEDGE/libjpeg-turbo-main/jinclude.h
+jconfig.h
+/home/bgs/CSI3DEDGE/libjpeg-turbo-main/jconfig.h
+stddef.h
+-
+stdlib.h
+-
+sys/types.h
+-
+stdio.h
+-
+strings.h
+-
+string.h
+-
+
+/home/bgs/CSI3DEDGE/libjpeg-turbo-main/rdjpgcom.c
+jinclude.h
+/home/bgs/CSI3DEDGE/libjpeg-turbo-main/jinclude.h
+locale.h
+-
+ctype.h
+-
+fcntl.h
+-
+io.h
+-
+SIOUX.h
+-
+console.h
+-
+console.h
+-
+
+jconfig.h
+

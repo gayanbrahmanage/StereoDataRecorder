@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/tjexample.dir/tjexample.c.o  -o tjexample -Wl,-rpath,/home/bgs/CSI3DEDGE/libjpeg-turbo-main/build libturbojpeg.so.0.2.0 
