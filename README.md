@@ -1,3 +1,7 @@
+### Note:
+A privacy impact assessment for the dataset is currently underway, with the release pending its completion.
+
+### samples 
 <p align="center">
   <img src="samples/img2200_1.jpg" alt="Image 1" width="300" />
   <img src="samples/img2200_2.jpg" alt="Image 2" width="300" />
