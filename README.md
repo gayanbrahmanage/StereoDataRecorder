@@ -1,5 +1,5 @@
 # Open dataset release:
-A privacy impact assessment for the dataset is currently underway, with the release pending its completion.
+[Hugging Face dataset repo](https://huggingface.co/datasets/gayanbrahmanage/stereo3)
 
 ### samples 
 <p align="center">
